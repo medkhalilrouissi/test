@@ -39,6 +39,14 @@ $vehiciles= [
     "disponibilité" => "disponible",
     "prix" => "1750DT/j",
 ]
+[
+    "id" => "6",
+    "modele" => "BMW M4 CS",
+    "jours" => "10",
+    "categorie" => "Luxury",
+    "disponibilité" => "disponible",
+    "prix" => "150DT/j",
+]
 
 
 ?>
