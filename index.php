@@ -55,6 +55,14 @@ $vehiciles= [
     "disponibilité" => "disponible",
     "prix" => "150DT/j",
 ]
+[
+    "id" => "8",
+    "modele" => "mercedes cle 400",
+    "jours" => "10",
+    "categorie" => "Luxury",
+    "disponibilité" => "disponible",
+    "prix" => "150DT/j",
+]
 
 
 ?>
